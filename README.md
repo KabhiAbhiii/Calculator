@@ -1,2 +1,2 @@
 # Calculator
-just a calculator
+find the calculator jar file to run
